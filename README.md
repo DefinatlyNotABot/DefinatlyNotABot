@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DefinatlyNotABot
+- 👀 I’m interested in AI and and clever algorithms
+- 🌱 I’m currently learning to use tensorflow and creat data sets (not very good ones tho ;))
+- 💞️ I’m looking to collaborate on ... nothing realy
+- 📫 How to reach me ... Never
